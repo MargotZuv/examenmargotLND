@@ -1,0 +1,29 @@
+html {
+    font-size: 62.3%;     
+    box-sizing: border-box;
+    
+    *, *:before, *:after {
+        box-sizing: inherit;
+        }
+}
+.body {
+    margin: 0 auto; 
+    align-content: center;
+    Display: grid;
+    padding: 20px
+    
+    }
+.button{
+    background-color: aquamarine;
+    align-content: center;
+}
+.section{
+    margin: 0 auto;
+    background-color:rgb(192, 131, 192);
+    Align-items: center;
+}
+.section2{
+    margin: 0 auto;
+    background-color:rgb(235, 220, 220);
+
+}
